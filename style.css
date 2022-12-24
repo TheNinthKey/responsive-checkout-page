@@ -47,7 +47,7 @@ body {
     max-width: 500px;
     position: relative;
     margin: auto;
-    background-image: url('/img/bg.png');
+    background-image: url('../img/bg.png');
     box-shadow: 43px 26px 145px -2px rgba(0,0,0,0.51);
     background-repeat: no-repeat;
     background-size: cover;
